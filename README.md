@@ -25,30 +25,6 @@ Sou entusiasta por tecnologia e compartilho meu conhecimento através de projeto
 
 <br/><br/>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img
-    alt="GitHub Stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=bistene&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10"
-  />
-  <img
-    alt="Top Langs"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bistene&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&border_radius=10"
-  />
-</div>
-
-<div align="center">
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=bistene&theme=tokyonight&border_radius=10&locale=pt_BR"
-  />
-</div>
-
 ## 📫 Contato
 
 <p align="left">
@@ -68,11 +44,3 @@ Sou entusiasta por tecnologia e compartilho meu conhecimento através de projeto
   </a>
   <!-- Adicione seu LinkedIn e Instagram quando estiver disponível -->
 </p>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
-
-</div>
