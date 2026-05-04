@@ -1,11 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Daniel%20Bistene&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Futuro%20Dev%20FullStack%20%7C%20ADS%20%40%20UNISUAM&descAlignY=55&descSize=18&descColor=a8b2d8"/>
-
-</div>
-
----
-
 ## 👨🏻‍💻 Sobre mim
 
 Olá! Me chamo **Daniel Bistene Reis**, tenho 20 anos e sou natural do **Rio de Janeiro 🏖️**.  
@@ -57,19 +49,6 @@ Sou entusiasta por tecnologia e compartilho meu conhecimento através de projeto
   />
 </div>
 
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img
-    alt="Trofeus GitHub"
-    src="https://github-profile-trophy.vercel.app/?username=bistene&theme=tokyonight&no-bg=true&no-frame=true&column=7"
-  />
-</div>
-
----
-
 ## 📫 Contato
 
 <p align="left">
@@ -80,11 +59,11 @@ Sou entusiasta por tecnologia e compartilho meu conhecimento através de projeto
       src="https://img.shields.io/badge/GitHub-bistene-181717?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:danielbistene17@gmail.com" target="_blank">
     <img
       alt="Gmail"
       title="E-mail"
-      src="https://img.shields.io/badge/Gmail-seuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-danielbistene17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
   <!-- Adicione seu LinkedIn e Instagram quando estiver disponível -->
