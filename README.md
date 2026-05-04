@@ -34,6 +34,7 @@ Sou entusiasta por tecnologia e compartilho meu conhecimento através de projeto
       title="GitHub"
       src="https://img.shields.io/badge/GitHub-bistene-181717?style=for-the-badge&logo=github&logoColor=white"
     />
+    
   </a>
   <a href="mailto:danielbistene17@gmail.com" target="_blank">
     <img
